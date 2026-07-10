@@ -1,0 +1,6 @@
+{
+  "name": "ANSH SAHU Cyber Learning",
+  "description": "Learn Ethical Hacking & Cybersecurity",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
